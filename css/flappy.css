@@ -61,3 +61,20 @@
     font-size: 70px;
     z-index: 100;
 }
+
+.restart{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+}
+
+.restart:hover{
+    cursor: pointer;
+}
+
+.restart img{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+}
